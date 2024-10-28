@@ -1,0 +1,2 @@
+a simple project that containing a university information management about students and proof and the diffirent information
+with special cases of the two 
