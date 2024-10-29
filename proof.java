@@ -17,8 +17,8 @@ public class proof extends information {
 	@Override
 	protected void displayinformationproof() {
 		super.displayinformationproof();
-		System.err.println("the grade of the proof is = "+this.gradeprof);
-	    System.err.println("the salary of the proof is = "+this.salary);
+		System.out.println("the grade of the proof is = "+this.gradeprof);
+	    System.out.println("the salary of the proof is = "+this.salary);
 	}
 
 
