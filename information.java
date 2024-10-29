@@ -19,16 +19,16 @@ public class information {
 		this.idbank=idbank;
 		}
 	protected void displayinformationstudent() {
-		System.err.println("the id of the student is = "+this.id);
-		System.err.println("the name of the student = "+this.name);
-		System.err.println("the family name of the student= "+this.familyname);
-		System.err.println("the level of student is = "+this.level);
+		System.out.println("the id of the student is = "+this.id);
+		System.out.println("the name of the student = "+this.name);
+		System.out.println("the family name of the student= "+this.familyname);
+		System.out.println("the level of student is = "+this.level);
 	}
 	protected void displayinformationproof() {
-		System.err.println("the id of the proof is = "+this.id);
-		System.err.println("the name of the proof = "+this.name);
-		System.err.println("the family name of the proof= "+this.familyname);
-		System.err.println("the level of proof is = "+this.level);
+		System.out.println("the id of the proof is = "+this.id);
+		System.out.println("the name of the proof = "+this.name);
+		System.out.println("the family name of the proof= "+this.familyname);
+		System.out.println("the level of proof is = "+this.level);
 		
 	}
 
